@@ -1,6 +1,7 @@
 {
   "name": "ai-saas",
   "version": "0.1.0",
+  "author": "shona-cmd",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -32,14 +33,14 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@types/node": "latest",
-    "@types/react": "^18.2.55",
+    "@types/node": "22.15.12",
+    "@types/react": "18.3.21",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
-    "typescript": "latest"
+    "typescript": "5.8.3"
   }
 }
